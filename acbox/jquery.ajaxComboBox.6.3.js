@@ -384,7 +384,7 @@ MIT License
 						button    : 'ac_button', //ボタンのCSSクラス
 						btn_on    : 'ac_btn_on', //ボタン(mover時)
 						btn_out   : 'ac_btn_out', //ボタン(mout時)
-						input     : 'ac_input', //テキストボックス
+						input     : 'ac_input' //テキストボックス
 					});
 					break;
 
